@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FOOD-BOOKINGS/static/css/main.ab0ce72f.css",
+    "main.js": "/FOOD-BOOKINGS/static/js/main.097e23e4.js",
+    "static/js/787.8f1ce55a.chunk.js": "/FOOD-BOOKINGS/static/js/787.8f1ce55a.chunk.js",
+    "static/media/meals.jpg": "/FOOD-BOOKINGS/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/FOOD-BOOKINGS/index.html",
+    "main.ab0ce72f.css.map": "/FOOD-BOOKINGS/static/css/main.ab0ce72f.css.map",
+    "main.097e23e4.js.map": "/FOOD-BOOKINGS/static/js/main.097e23e4.js.map",
+    "787.8f1ce55a.chunk.js.map": "/FOOD-BOOKINGS/static/js/787.8f1ce55a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab0ce72f.css",
+    "static/js/main.097e23e4.js"
+  ]
+}
